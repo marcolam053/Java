@@ -1,2 +1,2 @@
-# Java_Assignment
-// THIS FILE CONTAIN ALL THE PAST WORK FROM UNIVERSITYSEMESTER
+# JAVA Work
+This folder contains every work I ever did for this past 2 years Using Java.
